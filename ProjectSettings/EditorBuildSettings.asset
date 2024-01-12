@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: bc517264e1d96294ea98e2ffc7a9596e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2d67fdad71f10ef48a397442a3f2aa4a
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 0d18cb1101854ec438d406fd182ba870
+  - enabled: 1
+    path: Assets/Scenes/AbandonedVillage.unity
+    guid: 77960dec7b8d4cc4299d7159a03bce53
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: aff02fa06aa8b4b4099f1cc30a5837d6
+  - enabled: 1
+    path: Assets/Scenes/RaceTrack.unity
+    guid: 83760dd98fe89364daec0c8817772284
+  - enabled: 1
+    path: Assets/Scenes/Basketball.unity
+    guid: 7915976172b176e418a8c377bf85b93d
+  - enabled: 1
+    path: Assets/Scenes/GameCompleted.unity
+    guid: f3c251bb564add6489c991496b70addb
+  m_configObjects: {}
